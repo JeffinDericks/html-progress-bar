@@ -1,0 +1,77 @@
+h1{color: red; text-align: center;}
+
+.num{
+    border: 2px solid grey;
+    height: 350px;
+    width: 1690px;
+    
+}
+
+.one{
+    border: 2px solid grey;
+    border-radius: 5px;
+    height: 50px;
+    width: 1000px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin: 20px auto;
+}
+
+.onee{
+    height: 50px;
+    width: 25%;
+    background-color: blue;
+    
+       
+}
+
+.two{
+    border: 2px solid grey;
+    border-radius: 3px;
+    height: 50px;
+    width: 1000px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin: 30px auto;
+}
+
+
+.twoo{
+    height: 50px;
+    width: 50%;
+    background-color: pink;
+       
+}
+
+.three{
+    border: 2px solid grey;
+    border-radius: 5px;
+    height: 50px;
+    width: 1000px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin: 30px auto;
+}
+
+.threee{
+    height: 50px;
+    width: 75%;
+    background-color: brown;
+       
+}
+.four{
+    border: 2px solid grey;
+    border-radius: 5px;
+    height: 50px;
+    width: 1000px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin: 30px auto;
+}
+
+.fourr{
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
+       
+}
